@@ -1,6 +1,6 @@
-# Creative Web Animations & Components
+# 🖌️ Creative Web Animations & Components
 
-A collection of creative web components and animations.
+A collection of my interactive web components and animations
 
 ## 🚀 Technologies Used In This Project
 
