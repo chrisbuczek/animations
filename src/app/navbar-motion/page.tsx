@@ -1,0 +1,107 @@
+"use client";
+import React from "react";
+import NavbarMotion from "@/components/NavbarMotion/NavbarMotion";
+
+const page = () => {
+  return (
+    <>
+      <NavbarMotion />
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+      <div>.</div>
+    </>
+  );
+};
+
+export default page;
