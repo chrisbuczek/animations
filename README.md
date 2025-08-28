@@ -1,6 +1,7 @@
 # 🖌️ Creative Web Animations & Components
 
-A collection of my interactive web components and animations
+A collection of my interactive web components and animations.
+You can check everything out on my blog: https://blog.chrisbuczek.com/animations
 
 ## 🚀 Technologies Used In This Project
 
